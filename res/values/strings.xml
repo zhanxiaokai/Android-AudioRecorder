@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AudioRecorder</string>
+    <string name="title">Audio Recorder!</string>
+    <string name="recorder">Recorder</string>
+    <string name="recorder_page">Recorder Page</string>
+    <string name="record">record</string>
+    <string name="stop">stop</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
